@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY newWindowsAsTabs.label       "需要新建窗口时以新建标签页代替">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
+
+<!ENTITY warnCloseMultipleTabs.label  "关闭多个标签页时警告我">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+
+<!ENTITY warnOpenManyTabs.label       "打开多个标签页可能致使 &brandShortName; 缓慢时警告我">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
+
+<!ENTITY restoreTabsOnDemand.label        "选择之前不要加载标签页">
+<!ENTITY restoreTabsOnDemand.accesskey    "l">
+
+<!ENTITY switchToNewTabs.label        "新建标签页来打开链接时，立即切换过去">
+<!ENTITY switchToNewTabs.accesskey    "s">
+
+<!ENTITY showTabsInTaskbar.label          "在 Windows 任务栏上显示标签页预览">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
+
+<!ENTITY showTabBar.label                   "总是显示标签页栏">
+<!ENTITY showTabBar.accesskey               "b">
+
+<!ENTITY insertRelatedAfterCurrent.label    "将相关标签页插入到当前标签页旁">
+<!ENTITY contextLoadInBackground.label      "执行上下文搜索时，立即切换到新标签页">
+<!ENTITY closeWindowWithLastTab.label       "最后一个标签页关闭时关闭窗口">
+<!ENTITY showTabPreviews.label              "使用 Ctrl+Tab 切换标签页时显示预览">
+
+<!ENTITY newtabPage.label                   "打开新的标签页时显示：">
+<!ENTITY newtabPage.custom.label            "自定义网址">
+<!ENTITY newtabPage.blank.label             "空白页">
+<!ENTITY newtabPage.home.label              "Pale Moon 起始页">
+<!ENTITY newtabPage.myhome.label            "我的主页">
+<!ENTITY newtabPage.quickdial.label         "快速拨号页">
