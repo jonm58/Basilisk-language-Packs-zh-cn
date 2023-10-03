@@ -1,4 +1,10 @@
-<!ENTITY  brandShortName        "Pale Moon">
-<!ENTITY  brandFullName         "Pale Moon">
-<!ENTITY  vendorShortName       "Moonchild">
-<!ENTITY  trademarkInfo.part1   "Pale Moon 的标志及项目名称是 Moonchild Productions (M.C. Straver BASc) 的商标。保留所有权利。">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  brandShorterName      "Serpent">
+<!ENTITY  brandShortName        "Serpent">
+<!ENTITY  brandFullName         "Serpent">
+<!ENTITY  vendorShortName       "Basilisk-Dev">
+<!ENTITY  vendorFullName        "Basilisk-Dev">
+<!ENTITY  trademarkInfo.part1   " ">
